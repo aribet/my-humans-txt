@@ -4,6 +4,7 @@ body
     color:#333;
     background: url(http://subtlepatterns.com/patterns/symphony.png); 
     font-size: 16px;
+    margin-bottom:100px;
 }
 
 h1
@@ -11,6 +12,47 @@ h1
     font-family: 'Satisfy', cursive;
     text-align: center;
     font-size: 1.8em;
+    color:#420002;
+}
+small
+{
+    color:#ccc;
+    font-size:0.7em;
+    font-weight: normal;
+    text-shadow:3px 3px 2px rgba(0,0,0,0.1);
+}
+
+h2
+{
+    font-size: 1.1em;
+    font-family:sans-serif;    
+}
+
+section
+{
+    margin:0 auto;
+    display: block;
+    max-width:650px;
+}
+
+article
+{
+    margin:0 auto;
+    /*padding:1em;*/
+    border: 1px solid #ccc;
+    background: white;
+    /*font-family: monospace;*/
+}
+
+p
+{
+    text-align: left;
+}
+
+p span
+{
+    padding-left: 2em;
+    display: inline-block;
 }
 
 footer
