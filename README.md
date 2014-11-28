@@ -1,7 +1,9 @@
 humans-txt
 ==========
 
-archivo típico humans.txt para los creditos en los proyectos
+Archivo ejemplo __humans.txt__ con información de las personas involucradas en los proyectos
+Ejemplo autoreferente:
+http://aribet.github.io/my-humans-txt/
 
 siguiendo la guía de
 http://humanstxt.org/ES
