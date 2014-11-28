@@ -4,15 +4,23 @@ body
     color:#333;
     background: url(http://subtlepatterns.com/patterns/symphony.png); 
     font-size: 16px;
-    margin-bottom:100px;
+    margin:0 auto;
 }
-
+html,body
+{
+    height:100% ;
+}
+header
+{
+    padding:1em;
+}
 h1
 {
     font-family: 'Satisfy', cursive;
     text-align: center;
     font-size: 1.8em;
     color:#420002;
+    margin:0;
 }
 small
 {
@@ -25,7 +33,9 @@ small
 h2
 {
     font-size: 1.1em;
-    font-family:sans-serif;    
+    font-family:monospace;
+    font-weight:normal;
+    margin:0;
 }
 
 section
@@ -38,29 +48,38 @@ section
 article
 {
     margin:0 auto;
-    /*padding:1em;*/
     border: 1px solid #ccc;
     background: white;
-    /*font-family: monospace;*/
 }
-
-p
+pre
 {
-    text-align: left;
+    margin:0;    
 }
-
-p span
+.wrapper
 {
-    padding-left: 2em;
-    display: inline-block;
+    min-height:100%;
+    position:relative;
+    margin:0;
 }
+ 
+.wrapper:after
+{
+    clear:both;
+    content: "";
+    display:block;
+    height: 7em;
+}
+    
 
 footer
 {
     background: url(http://subtlepatterns.com/patterns/congruent_outline.png);
-    padding:1em;
-    position:fixed;
-    bottom:0;
-    left:0;
-    right:0;
+    height:6em;
+    margin-top:-6em;
+    position:relative;
+    content-box:box-sizing;
+}
+footer div
+{
+   padding:1em 0 0 1em;
 }
