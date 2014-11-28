@@ -13,5 +13,5 @@
 /* SITE */
     Last update:2014/11/28
     Language: English 
-	Doctype:HTML5
-	IDE: Sublime Text / GIT / c9.io 
+    Doctype:HTML5
+    IDE: Sublime Text / GIT / c9.io 
