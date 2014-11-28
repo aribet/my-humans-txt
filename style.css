@@ -1,0 +1,21 @@
+body
+{
+    background: #fefefe;
+    color:#333;
+    background: url(http://subtlepatterns.com/patterns/symphony.png); 
+}
+
+h1
+{
+    font-family: 'Satisfy', cursive;
+}
+
+footer
+{
+    background: url(http://subtlepatterns.com/patterns/congruent_outline.png);
+    padding:1em;
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+}

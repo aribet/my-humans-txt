@@ -1,0 +1,17 @@
+/* TEAM */
+    designer,developer: André Ribet A.
+    Site: aribet [@] gmail.com
+    Twitter: @aribet
+    Location: Talcahuano, Chile.
+
+/* THANKS */
+    http://humanstxt.org/ES
+    http://www.google.com/fonts
+    http://subtlepatterns.com/symphony/
+    http://subtlepatterns.com/congruent-pentagon-outline/
+                            
+/* SITE */
+    Last update:2014/11/28
+    Language: English 
+	Doctype:HTML5
+	IDE: Sublime Text / GIT / c9.io 
