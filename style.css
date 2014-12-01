@@ -1,11 +1,22 @@
 body
 {
-    background: #fefefe;
     color:#333;
     background: url(http://subtlepatterns.com/patterns/symphony.png); 
     font-size: 16px;
     margin:0 auto;
 }
+
+@media handheld {
+    body
+    {
+        background: red; 
+    }
+        
+}
+
+
+
+
 html,body
 {
     height:100% ;
@@ -70,16 +81,29 @@ pre
     height: 7em;
 }
     
-
+/* footer - pie de pagina*/
 footer
 {
     background: url(http://subtlepatterns.com/patterns/congruent_outline.png);
-    height:6em;
+    height:9em;
     margin-top:-6em;
     position:relative;
     content-box:box-sizing;
 }
-footer div
+
+footer > div
 {
    padding:1em 0 0 1em;
+}
+
+.license
+{
+	display: inline-block;
+	margin: 0em 1em 1em 1em;
+	font-size: 0.7em;
+	color:#aaa;
+}
+.license a
+{
+	color:#aaaabb;
 }
