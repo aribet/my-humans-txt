@@ -5,15 +5,16 @@
     Location: Talcahuano, Chile.
 
 /* THANKS */
+    https://c9.io
+    https://github.com
+    https://mejorando.la
     http://humanstxt.org/ES
     http://www.google.com/fonts
-    https://github.com
-    https://c9.io
     http://subtlepatterns.com/symphony/
     http://subtlepatterns.com/congruent-pentagon-outline/
                             
 /* SITE */
     Last update:2014/12/04
-    Language: English 
+    Language: English / Spanish
     Doctype:HTML5
-    IDE: Cloud9, Sublime Text / GIT / c9.io 
+    IDE: Cloud9 / Sublime Text / GIT 
