@@ -33,3 +33,7 @@ Icon
 # sublimetext
 /*.sublime-project
 *.sublime-workspace
+
+# -- preprosesadores -----------------------------------------
+
+style.css.map
