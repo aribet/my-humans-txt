@@ -1,6 +1,6 @@
 /* TEAM */
     designer,developer: André Ribet A.
-    Site: aribet [@] gmail.com
+    Site: aribet[at]gmail[dot]com
     Twitter: @aribet
     Location: Talcahuano, Chile.
 
