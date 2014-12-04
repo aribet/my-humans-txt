@@ -14,4 +14,4 @@
     Last update:2014/11/28
     Language: English 
     Doctype:HTML5
-    IDE: Sublime Text / GIT / c9.io 
+    IDE: Cloud9, Sublime Text / GIT / c9.io 
