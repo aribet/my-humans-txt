@@ -1,14 +1,14 @@
 humans-txt
 ==========
 
-Este es una referencia para el reconocimiento de los humanos en la web.
+Referencia para el reconocimiento de los humanos en la web.
 
-El archivo ejemplo __humans.txt__ contiene información de personas involucradas en los proyectos.
+El archivo __humans.txt__ contiene información de personas involucradas en proyectos.
 
 Ejemplo autoreferente:
 http://aribet.github.io/my-humans-txt/
 
-Desarrollado siguiendo la guía de
+Según la guía de:
 
 http://humanstxt.org/ES
 
@@ -22,9 +22,9 @@ __Instrucciones__
 1. Colocar el botón de humansTXT en alguna parte del sitio y enlazar tu humans.txt desde él.
 
 
-###Objetivos e intenciones de este proyecto
+###Objetivos del proyecto
 
-Además usaré este proyecto para experimentar con distintas tecnologias web, para mi propio entrenamiento y visibilidad.
+Usaré este proyecto para experimentar con distintas tecnologías web, para propio entrenamiento y referencia.
 
 _Tecnología y servicios incluidos hasta ahora_
 
