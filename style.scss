@@ -115,9 +115,18 @@ footer
     content-box:box-sizing;
 }
 
-footer > div
+footer 
 {
-   padding:1em 0 0 1em;
+    &> div
+    {
+       padding:1em 0 0 1em;
+    }
+}
+
+iframe
+{
+    width:100%;
+    height:300px;
 }
 
 .license
