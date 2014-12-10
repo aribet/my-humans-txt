@@ -20,7 +20,7 @@ __Instrucciones__
 1. Indicar también algunos datos del sitio, como la fecha de su última actualización (YYYY/MM/DD), idioma principal, su Doctype y las herramientas utilizadas para su desarrollo.
 1. Guardar y subir el archivo a la carpeta raíz del sitio web.
 1. Colocar el botón de humansTXT en alguna parte del sitio y enlazar tu humans.txt desde él.
-
+1. Para minificar los archivos .html y .css, solo debemos hacer uso de la dependencia gulp, que se encargará de optimizar los archivos .html y los .css desde la carpeta /src.
 
 ###Objetivos del proyecto
 
