@@ -13,7 +13,7 @@ gulp.task('minify-css', function () { // gulp client_stylus
 // minify HTML pages
 gulp.task('html', function() { // gulp client_html
   var htmlSrc = 'src/html/*.html',
-      htmlDst = '/';
+      htmlDst = '';
  
   gulp.src(htmlSrc)
     // .pipe(changed(htmlDst))
@@ -21,11 +21,11 @@ gulp.task('html', function() { // gulp client_html
     .pipe(gulp.dest(htmlDst));
 });
 
-gulp.task('default', ['stylus', 'html'], function() {
+gulp.task('default', ['minify-css', 'html'], function() {
 
   // watch stylus
   gulp.watch('src/stylus/*.styl', function() {
-    gulp.start('stylus');
+    gulp.start('minify-css');
   });
 
   // watch html
