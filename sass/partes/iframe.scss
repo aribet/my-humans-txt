@@ -4,14 +4,12 @@ iframe {
   width: 100%;
 }
 
+
+
 article {
-  background: rgba(white, 0.4);
-  // @extend .blue;
+  @extend .white;
+  @extend .z-depth-5;
+
   border: 1px solid #ccc;
   margin: 0 auto;
 }
-
-// pre
-// {
-//   margin:0;
-// }
