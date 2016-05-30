@@ -73,7 +73,7 @@
   color: #a21318 !important;
 }
 
-.materialize-red.darken-4, .botonera a.materialize-red {
+.materialize-red.darken-4, nav.materialize-red, .botonera a.materialize-red {
   background-color: #8b1014 !important;
 }
 
@@ -153,7 +153,7 @@
   color: #C62828 !important;
 }
 
-.red.darken-4, .botonera a.red {
+.red.darken-4, nav.red, .botonera a.red {
   background-color: #B71C1C !important;
 }
 
@@ -185,7 +185,7 @@
   color: #FF1744 !important;
 }
 
-.red.accent-4 {
+.red.accent-4, .botonera a.red:hover {
   background-color: #D50000 !important;
 }
 
@@ -265,7 +265,7 @@
   color: #ad1457 !important;
 }
 
-.pink.darken-4, .botonera a.pink {
+.pink.darken-4, nav.pink, .botonera a.pink {
   background-color: #880e4f !important;
 }
 
@@ -297,7 +297,7 @@
   color: #f50057 !important;
 }
 
-.pink.accent-4 {
+.pink.accent-4, .botonera a.pink:hover {
   background-color: #c51162 !important;
 }
 
@@ -377,7 +377,7 @@
   color: #6a1b9a !important;
 }
 
-.purple.darken-4, .botonera a.purple {
+.purple.darken-4, nav.purple, .botonera a.purple {
   background-color: #4a148c !important;
 }
 
@@ -409,7 +409,7 @@
   color: #d500f9 !important;
 }
 
-.purple.accent-4 {
+.purple.accent-4, .botonera a.purple:hover {
   background-color: #aa00ff !important;
 }
 
@@ -489,7 +489,7 @@
   color: #4527a0 !important;
 }
 
-.deep-purple.darken-4, .botonera a.deep-purple {
+.deep-purple.darken-4, nav.deep-purple, .botonera a.deep-purple {
   background-color: #311b92 !important;
 }
 
@@ -521,7 +521,7 @@
   color: #651fff !important;
 }
 
-.deep-purple.accent-4 {
+.deep-purple.accent-4, .botonera a.deep-purple:hover {
   background-color: #6200ea !important;
 }
 
@@ -601,7 +601,7 @@
   color: #283593 !important;
 }
 
-.indigo.darken-4, .botonera a.indigo {
+.indigo.darken-4, nav.indigo, .botonera a.indigo {
   background-color: #1a237e !important;
 }
 
@@ -633,7 +633,7 @@
   color: #3d5afe !important;
 }
 
-.indigo.accent-4 {
+.indigo.accent-4, .botonera a.indigo:hover {
   background-color: #304ffe !important;
 }
 
@@ -713,7 +713,7 @@
   color: #1565C0 !important;
 }
 
-.blue.darken-4, .botonera a.blue {
+.blue.darken-4, nav.blue, .botonera a.blue {
   background-color: #0D47A1 !important;
 }
 
@@ -745,7 +745,7 @@
   color: #2979FF !important;
 }
 
-.blue.accent-4 {
+.blue.accent-4, .botonera a.blue:hover {
   background-color: #2962FF !important;
 }
 
@@ -825,7 +825,7 @@
   color: #0277bd !important;
 }
 
-.light-blue.darken-4, .botonera a.light-blue {
+.light-blue.darken-4, nav.light-blue, .botonera a.light-blue {
   background-color: #01579b !important;
 }
 
@@ -857,7 +857,7 @@
   color: #00b0ff !important;
 }
 
-.light-blue.accent-4 {
+.light-blue.accent-4, .botonera a.light-blue:hover {
   background-color: #0091ea !important;
 }
 
@@ -937,7 +937,7 @@
   color: #00838f !important;
 }
 
-.cyan.darken-4, .botonera a.cyan {
+.cyan.darken-4, nav.cyan, .botonera a.cyan {
   background-color: #006064 !important;
 }
 
@@ -969,7 +969,7 @@
   color: #00e5ff !important;
 }
 
-.cyan.accent-4 {
+.cyan.accent-4, .botonera a.cyan:hover {
   background-color: #00b8d4 !important;
 }
 
@@ -1049,7 +1049,7 @@
   color: #00695c !important;
 }
 
-.teal.darken-4, .botonera a.teal {
+.teal.darken-4, nav.teal, .botonera a.teal {
   background-color: #004d40 !important;
 }
 
@@ -1081,7 +1081,7 @@
   color: #1de9b6 !important;
 }
 
-.teal.accent-4 {
+.teal.accent-4, .botonera a.teal:hover {
   background-color: #00bfa5 !important;
 }
 
@@ -1161,7 +1161,7 @@
   color: #2E7D32 !important;
 }
 
-.green.darken-4, .botonera a.green {
+.green.darken-4, nav.green, .botonera a.green {
   background-color: #1B5E20 !important;
 }
 
@@ -1193,7 +1193,7 @@
   color: #00E676 !important;
 }
 
-.green.accent-4 {
+.green.accent-4, .botonera a.green:hover {
   background-color: #00C853 !important;
 }
 
@@ -1273,7 +1273,7 @@
   color: #558b2f !important;
 }
 
-.light-green.darken-4, .botonera a.light-green {
+.light-green.darken-4, nav.light-green, .botonera a.light-green {
   background-color: #33691e !important;
 }
 
@@ -1305,7 +1305,7 @@
   color: #76ff03 !important;
 }
 
-.light-green.accent-4 {
+.light-green.accent-4, .botonera a.light-green:hover {
   background-color: #64dd17 !important;
 }
 
@@ -1385,7 +1385,7 @@
   color: #9e9d24 !important;
 }
 
-.lime.darken-4, .botonera a.lime {
+.lime.darken-4, nav.lime, .botonera a.lime {
   background-color: #827717 !important;
 }
 
@@ -1417,7 +1417,7 @@
   color: #c6ff00 !important;
 }
 
-.lime.accent-4 {
+.lime.accent-4, .botonera a.lime:hover {
   background-color: #aeea00 !important;
 }
 
@@ -1497,7 +1497,7 @@
   color: #f9a825 !important;
 }
 
-.yellow.darken-4, .botonera a.yellow {
+.yellow.darken-4, nav.yellow, .botonera a.yellow {
   background-color: #f57f17 !important;
 }
 
@@ -1529,7 +1529,7 @@
   color: #ffea00 !important;
 }
 
-.yellow.accent-4 {
+.yellow.accent-4, .botonera a.yellow:hover {
   background-color: #ffd600 !important;
 }
 
@@ -1609,7 +1609,7 @@
   color: #ff8f00 !important;
 }
 
-.amber.darken-4, .botonera a.amber {
+.amber.darken-4, nav.amber, .botonera a.amber {
   background-color: #ff6f00 !important;
 }
 
@@ -1641,7 +1641,7 @@
   color: #ffc400 !important;
 }
 
-.amber.accent-4 {
+.amber.accent-4, .botonera a.amber:hover {
   background-color: #ffab00 !important;
 }
 
@@ -1649,7 +1649,7 @@
   color: #ffab00 !important;
 }
 
-.orange, .botonera a {
+.orange, nav, .botonera a {
   background-color: #ff9800 !important;
 }
 
@@ -1657,7 +1657,7 @@
   color: #ff9800 !important;
 }
 
-.orange.lighten-5, .botonera a.lighten-5 {
+.orange.lighten-5, nav.lighten-5, .botonera a.lighten-5 {
   background-color: #fff3e0 !important;
 }
 
@@ -1665,7 +1665,7 @@
   color: #fff3e0 !important;
 }
 
-.orange.lighten-4, .botonera a.lighten-4 {
+.orange.lighten-4, nav.lighten-4, .botonera a.lighten-4 {
   background-color: #ffe0b2 !important;
 }
 
@@ -1673,7 +1673,7 @@
   color: #ffe0b2 !important;
 }
 
-.orange.lighten-3, .botonera a.lighten-3 {
+.orange.lighten-3, nav.lighten-3, .botonera a.lighten-3 {
   background-color: #ffcc80 !important;
 }
 
@@ -1681,7 +1681,7 @@
   color: #ffcc80 !important;
 }
 
-.orange.lighten-2, .botonera a.lighten-2 {
+.orange.lighten-2, nav.lighten-2, .botonera a.lighten-2 {
   background-color: #ffb74d !important;
 }
 
@@ -1689,7 +1689,7 @@
   color: #ffb74d !important;
 }
 
-.orange.lighten-1, .botonera a.lighten-1 {
+.orange.lighten-1, nav.lighten-1, .botonera a.lighten-1 {
   background-color: #ffa726 !important;
 }
 
@@ -1697,7 +1697,7 @@
   color: #ffa726 !important;
 }
 
-.orange.darken-1, .botonera a.darken-1 {
+.orange.darken-1, nav.darken-1, .botonera a.darken-1 {
   background-color: #fb8c00 !important;
 }
 
@@ -1705,7 +1705,7 @@
   color: #fb8c00 !important;
 }
 
-.orange.darken-2, .botonera a.darken-2 {
+.orange.darken-2, nav.darken-2, .botonera a.darken-2 {
   background-color: #f57c00 !important;
 }
 
@@ -1713,7 +1713,7 @@
   color: #f57c00 !important;
 }
 
-.orange.darken-3, .botonera a.darken-3 {
+.orange.darken-3, nav.darken-3, .botonera a.darken-3 {
   background-color: #ef6c00 !important;
 }
 
@@ -1721,7 +1721,7 @@
   color: #ef6c00 !important;
 }
 
-.orange.darken-4, .botonera a {
+.orange.darken-4, nav, .botonera a {
   background-color: #e65100 !important;
 }
 
@@ -1729,7 +1729,7 @@
   color: #e65100 !important;
 }
 
-.orange.accent-1, .botonera a.accent-1 {
+.orange.accent-1, nav.accent-1, .botonera a.accent-1 {
   background-color: #ffd180 !important;
 }
 
@@ -1737,7 +1737,7 @@
   color: #ffd180 !important;
 }
 
-.orange.accent-2, .botonera a.accent-2 {
+.orange.accent-2, nav.accent-2, .botonera a.accent-2 {
   background-color: #ffab40 !important;
 }
 
@@ -1745,7 +1745,7 @@
   color: #ffab40 !important;
 }
 
-.orange.accent-3, .botonera a.accent-3 {
+.orange.accent-3, nav.accent-3, .botonera a.accent-3 {
   background-color: #ff9100 !important;
 }
 
@@ -1753,7 +1753,7 @@
   color: #ff9100 !important;
 }
 
-.orange.accent-4, .botonera a.accent-4 {
+.orange.accent-4, nav.accent-4, .botonera a.accent-4, .botonera a:hover {
   background-color: #ff6d00 !important;
 }
 
@@ -1833,7 +1833,7 @@
   color: #d84315 !important;
 }
 
-.deep-orange.darken-4, .botonera a.deep-orange {
+.deep-orange.darken-4, nav.deep-orange, .botonera a.deep-orange {
   background-color: #bf360c !important;
 }
 
@@ -1865,7 +1865,7 @@
   color: #ff3d00 !important;
 }
 
-.deep-orange.accent-4 {
+.deep-orange.accent-4, .botonera a.deep-orange:hover {
   background-color: #dd2c00 !important;
 }
 
@@ -1945,7 +1945,7 @@
   color: #4e342e !important;
 }
 
-.brown.darken-4, .botonera a.brown {
+.brown.darken-4, nav.brown, .botonera a.brown {
   background-color: #3e2723 !important;
 }
 
@@ -2025,7 +2025,7 @@
   color: #37474f !important;
 }
 
-.blue-grey.darken-4, .botonera a.blue-grey {
+.blue-grey.darken-4, nav.blue-grey, .botonera a.blue-grey {
   background-color: #263238 !important;
 }
 
@@ -2105,7 +2105,7 @@
   color: #424242 !important;
 }
 
-.grey.darken-4, .botonera a.grey {
+.grey.darken-4, nav.grey, .botonera a.grey {
   background-color: #212121 !important;
 }
 
@@ -2141,7 +2141,7 @@
   background-color: #000000 !important;
 }
 
-.black-text {
+.black-text, .botonera a:hover {
   color: #000000 !important;
 }
 
@@ -2693,7 +2693,7 @@ ul li {
   box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
 }
 
-.z-depth-2 {
+.z-depth-2, nav, article {
   box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -2705,7 +2705,7 @@ ul li {
   box-shadow: 0 16px 28px 0 rgba(0, 0, 0, 0.22), 0 25px 55px 0 rgba(0, 0, 0, 0.21);
 }
 
-.z-depth-5, article {
+.z-depth-5 {
   box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.2), 0 40px 77px 0 rgba(0, 0, 0, 0.22);
 }
 
@@ -2740,7 +2740,7 @@ i.left {
   margin-right: 15px;
 }
 
-i.right {
+i.right, .botonera a i {
   float: right;
   margin-left: 15px;
 }
@@ -2825,7 +2825,9 @@ video.responsive-video {
 
 .breadcrumb i,
 .breadcrumb [class^="mdi-"], .breadcrumb [class*="mdi-"],
-.breadcrumb i.material-icons {
+.breadcrumb i.material-icons,
+.breadcrumb .botonera a i, .botonera a
+.breadcrumb i {
   display: inline-block;
   float: left;
   font-size: 24px;
@@ -3386,7 +3388,7 @@ nav ul a span.badge {
   float: left !important;
 }
 
-.right {
+.right, .botonera a i {
   float: right !important;
 }
 
@@ -3421,7 +3423,7 @@ input[type=range] + .thumb {
 }
 
 /* This is needed for some mobile phones to display the Google Icon font properly */
-.material-icons {
+.material-icons, .botonera a i {
   text-rendering: optimizeLegibility;
   -webkit-font-feature-settings: 'liga';
           font-feature-settings: 'liga';
@@ -4097,7 +4099,9 @@ nav a {
 
 nav i,
 nav [class^="mdi-"], nav [class*="mdi-"],
-nav i.material-icons {
+nav i.material-icons,
+nav .botonera a i, .botonera a
+nav i {
   display: block;
   font-size: 2rem;
   height: 56px;
@@ -4128,7 +4132,7 @@ nav .button-collapse i {
   line-height: 56px;
 }
 
-nav .brand-logo {
+nav .brand-logo, nav h1 {
   position: absolute;
   color: #fff;
   display: inline-block;
@@ -4137,7 +4141,7 @@ nav .brand-logo {
   white-space: nowrap;
 }
 
-nav .brand-logo.center {
+nav .brand-logo.center, nav h1.center {
   left: 50%;
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
@@ -4145,28 +4149,28 @@ nav .brand-logo.center {
 }
 
 @media only screen and (max-width: 992px) {
-  nav .brand-logo {
+  nav .brand-logo, nav h1 {
     left: 50%;
     -webkit-transform: translateX(-50%);
         -ms-transform: translateX(-50%);
             transform: translateX(-50%);
   }
-  nav .brand-logo.left, nav .brand-logo.right {
+  nav .brand-logo.left, nav h1.left, nav .brand-logo.right, nav h1.right, nav .botonera a i.brand-logo, .botonera a nav i.brand-logo {
     padding: 0;
     -webkit-transform: none;
         -ms-transform: none;
             transform: none;
   }
-  nav .brand-logo.left {
+  nav .brand-logo.left, nav h1.left {
     left: 0.5rem;
   }
-  nav .brand-logo.right {
+  nav .brand-logo.right, nav h1.right, nav .botonera a i.brand-logo, .botonera a nav i.brand-logo {
     right: 0.5rem;
     left: auto;
   }
 }
 
-nav .brand-logo.right {
+nav .brand-logo.right, nav h1.right, nav .botonera a i.brand-logo, .botonera a nav i.brand-logo {
   right: 0.5rem;
   padding: 0;
 }
@@ -5432,7 +5436,7 @@ a.waves-effect .waves-ripple {
   border-radius: 50%;
 }
 
-.chip i.material-icons {
+.chip i.material-icons, .chip .botonera a i, .botonera a .chip i {
   cursor: pointer;
   float: right;
   font-size: 16px;
@@ -5878,7 +5882,9 @@ textarea.materialize-textarea + label:after {
 
 .input-field input[type=search]:focus + label i,
 .input-field input[type=search]:focus ~ .mdi-navigation-close,
-.input-field input[type=search]:focus ~ .material-icons {
+.input-field input[type=search]:focus ~ .material-icons,
+.input-field .botonera a input[type=search]:focus ~ i, .botonera a
+.input-field input[type=search]:focus ~ i {
   color: #444;
 }
 
@@ -5887,7 +5893,9 @@ textarea.materialize-textarea + label:after {
 }
 
 .input-field input[type=search] ~ .mdi-navigation-close,
-.input-field input[type=search] ~ .material-icons {
+.input-field input[type=search] ~ .material-icons,
+.input-field .botonera a input[type=search] ~ i, .botonera a
+.input-field input[type=search] ~ i {
   position: absolute;
   top: 0;
   right: 1rem;
@@ -7258,7 +7266,7 @@ input[type=range]:focus::-ms-fill-upper {
       transform: rotate(129deg);
 }
 
-.circle-clipper.right .circle {
+.circle-clipper.right .circle, .botonera a i.circle-clipper .circle {
   left: -100%;
   border-left-color: transparent !important;
   -webkit-transform: rotate(-129deg);
@@ -7272,7 +7280,7 @@ input[type=range]:focus::-ms-fill-upper {
   animation: left-spin 1333ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
 }
 
-.active .circle-clipper.right .circle {
+.active .circle-clipper.right .circle, .active .botonera a i.circle-clipper .circle, .botonera a .active i.circle-clipper .circle {
   /* duration: ARCTIME */
   -webkit-animation: right-spin 1333ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
   animation: right-spin 1333ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
@@ -8236,44 +8244,34 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 */
 /* rutas.scss */
 /* header.scss */
-header {
-  padding: 1em;
+h1 {
+  font-family: 'Satisfy', cursive;
+  margin: .5em 0;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.1);
+}
+
+small {
+  color: #ccc;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.1);
 }
 
 /* main.scss */
 body {
   background: url("../img/fondos/symphony.png");
-  color: #333;
-  font-size: 16px;
-  margin: 0 auto;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  min-height: 100vh;
   -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
+  min-height: 100vh;
 }
 
 main {
   -webkit-flex: 1 0 auto;
       -ms-flex: 1 0 auto;
           flex: 1 0 auto;
-}
-
-h1 {
-  color: #420002;
-  font-family: 'Satisfy', cursive;
-  font-size: 1.8em;
-  margin: 0;
-  text-align: center;
-}
-
-small {
-  color: #ccc;
-  font-size: 0.7em;
-  font-weight: normal;
-  text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.1);
+  margin-top: 2em;
 }
 
 h2 {
@@ -8287,6 +8285,10 @@ section {
   display: block;
   margin: 0 auto;
   max-width: 650px;
+}
+
+.botonera a {
+  margin-bottom: 1em;
 }
 
 iframe {
@@ -8312,6 +8314,7 @@ footer .footer-copyright {
 
 .license {
   color: #aaa;
+  line-height: 1.4;
 }
 
 .license a {
