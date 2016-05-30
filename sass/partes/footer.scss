@@ -1,0 +1,29 @@
+/* footer.scss - pie de pagina*/
+
+footer {
+  background: url('../img/fondos/congruent_outline.png');
+  // background: red;
+  // height:9em;
+  // margin-top:-6em;
+  // position:relative;
+  // content-box:box-sizing;
+  padding: 1em;
+  &> div {
+    // padding:1em 0 0 1em;
+    // background-color: red;
+  }
+  .footer-copyright {
+    height: auto !important;
+  }
+
+}
+
+.license {
+  color: #aaa;
+  // display: inline-block;
+  // font-size: 0.7em;
+  // margin: 0 1em 1em;
+  a {
+    color: #aab;
+  }
+}

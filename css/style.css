@@ -1,0 +1,119 @@
+/*
+css personalizados
+*/
+/* rutas.scss */
+/* header.scss */
+header {
+  padding: 1em;
+}
+
+/* main.scss */
+body {
+  background: url("../img/fondos/symphony.png");
+  color: #333;
+  font-size: 16px;
+  margin: 0 auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 100vh;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+main {
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+}
+
+h1 {
+  color: #420002;
+  font-family: 'Satisfy', cursive;
+  font-size: 1.8em;
+  margin: 0;
+  text-align: center;
+}
+
+small {
+  color: #ccc;
+  font-size: 0.7em;
+  font-weight: normal;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 1.1em;
+  font-weight: normal;
+  margin: 0;
+}
+
+section {
+  display: block;
+  margin: 0 auto;
+  max-width: 650px;
+}
+
+aside ul {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 1em auto;
+  width: 500px;
+}
+
+li {
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+li a {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  color: rgba(0, 0, 0, 0.4);
+  padding: 0.5em 1em;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6);
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
+}
+
+iframe {
+  border: 0;
+  height: 340px;
+  width: 100%;
+}
+
+article {
+  background: rgba(255, 255, 255, 0.4);
+  border: 1px solid #ccc;
+  margin: 0 auto;
+}
+
+/* footer.scss - pie de pagina*/
+footer {
+  background: url("../img/fondos/congruent_outline.png");
+  padding: 1em;
+}
+
+footer .footer-copyright {
+  height: auto !important;
+}
+
+.license {
+  color: #aaa;
+}
+
+.license a {
+  color: #aab;
+}

@@ -6,9 +6,9 @@ Referencia para el reconocimiento de los humanos en la web.
 El archivo __humans.txt__ contiene información de personas involucradas en proyectos.
 
 Ejemplo autoreferente:
-http://aribet.github.io/my-humans-txt/
+http://www.myhumanstxt.tk/
 
-Según la guía de:
+Según guía de:
 
 http://humanstxt.org/ES
 
@@ -28,8 +28,9 @@ Usaré este proyecto para experimentar con distintas tecnologías web, para prop
 
 _Tecnología y servicios incluidos hasta ahora_
 
-    Cloud9:     IDE online
-    Git:        sistema de control de versiones
-    GitHub:     Servicio de gestion de proyectos con git
-    HTML5:      Etiqueta Semantica, CSS3, etc,
-    SASS:       Preprocesador de css
+    Cloud9:         IDE online
+    Git:            sistema de control de versiones
+    GitHub:         Servicio de gestion de proyectos con git
+    HTML5:          Etiqueta Semantica, CSS3, etc,
+    SASS:           Preprocesador de css
+    Materializecss: Framework web front-end
