@@ -1,19 +1,25 @@
-<!DOCTYPE html>
+- var titulo = "My Humans Txt"
+- var archivo = "humans.txt"
+
+doctype html
 html(lang="en")
+	//- HEAD
 	include partes/head.jade
-
 	body
+		//- HEADER
 		include partes/header.jade
-
+		//- MAIN
 		main
 			section.container
 				.row
 					.col.s12
-						h2.codigo.flow-text code: humans.txt
+						h2.codigo.flow-text code: #{archivo}
 					article.col.s12
+						//- iframe
 						iframe(src="humans.txt")
 				.row
 					.botonera.col.s12
+						//- botonera
 						a.waves-effect(target="_blank" title="Go to Humanstxt.org web page" href="http://humanstxt.org/ES" )
 							i(class="material-icons right") launch
 							| Humanstxt.org
@@ -30,5 +36,7 @@ html(lang="en")
 							i(class="material-icons right") file_download
 							| Download this site
 
+		//- FOOTER
 		include partes/footer.jade
+	//- JS
 	include partes/scripts.jade
