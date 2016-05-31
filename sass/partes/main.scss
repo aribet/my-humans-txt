@@ -38,6 +38,8 @@ section {
     i {
       @extend .material-icons, .right;
     }
-    margin-bottom: 1em;
+    display: inline-block;
+    margin-bottom: 0.5em;
+    margin-right: 0.5em;
   }
 }

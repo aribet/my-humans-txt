@@ -15,7 +15,13 @@ footer {
   .footer-copyright {
     height: auto !important;
   }
-
+  .human-img {
+    a {
+      display: inline-block;
+      margin-bottom: 0.5em;
+      margin-right: 0.5em;
+    }
+  }
 }
 
 .license {
@@ -26,5 +32,8 @@ footer {
   line-height: 1.4;
   a {
     color: #aab;
+    img {
+      border-width: 0;
+    }
   }
 }

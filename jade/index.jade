@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+html(lang="en")
+	include partes/head.jade
+
+	body
+		include partes/header.jade
+
+		main
+			section.container
+				.row
+					.col.s12
+						h2.codigo.flow-text code: humans.txt
+					article.col.s12
+						iframe(src="humans.txt")
+				.row
+					.botonera.col.s12
+						a.waves-effect(target="_blank" title="Go to Humanstxt.org web page" href="http://humanstxt.org/ES" )
+							i(class="material-icons right") launch
+							| Humanstxt.org
+
+						a.waves-effect(target="_blank" title="View this code site in Cloud9" href="https://ide.c9.io/aribet/humans-txt" )
+							i(class="material-icons right") launch
+							| Cloud9
+
+						a.waves-effect(target="_blank" title="Go to this in GitHub proyect" href="https://github.com/aribet/my-humans-txt" )
+							i(class="material-icons right") launch
+							| GitHub
+
+						a.waves-effect(target="_blank" title="Download this site from GitHub" href="https://github.com/aribet/my-humans-txt/archive/gh-pages.zip" )
+							i(class="material-icons right") file_download
+							| Download this site
+
+		include partes/footer.jade
+	include partes/scripts.jade

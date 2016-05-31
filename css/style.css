@@ -8288,7 +8288,9 @@ section {
 }
 
 .botonera a {
-  margin-bottom: 1em;
+  display: inline-block;
+  margin-bottom: 0.5em;
+  margin-right: 0.5em;
 }
 
 iframe {
@@ -8312,6 +8314,12 @@ footer .footer-copyright {
   height: auto !important;
 }
 
+footer .human-img a {
+  display: inline-block;
+  margin-bottom: 0.5em;
+  margin-right: 0.5em;
+}
+
 .license {
   color: #aaa;
   line-height: 1.4;
@@ -8319,4 +8327,8 @@ footer .footer-copyright {
 
 .license a {
   color: #aab;
+}
+
+.license a img {
+  border-width: 0;
 }
